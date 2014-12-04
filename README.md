@@ -1,0 +1,1 @@
+This is just a code along done during the lecture on restful routing (https://github.com/sf-wdi-14/restful-routing), and it's very similar to https://github.com/sf-wdi-14/restful-routing/tree/solution.
